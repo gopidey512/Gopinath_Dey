@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fajlul Haque</h1>
+<h1 align="center">Hi 👋, I'm Gopinath Dey</h1>
 <h3 align="center">A passionate Java Software Developer and Web Developer from India</h3>
 <img align = "center" alt="coding"  width = "500" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fajlul1711&label=Profile%20views&color=0e75b6&style=flat" alt="fajlul1711" /> </p>
